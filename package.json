@@ -1,0 +1,10 @@
+{
+  "name": "fs-builder",
+  "version": "0.0.1",
+  "description": "Simple local file browser wrapper.",
+  "main": "index.js",
+  "repository": "https://github.com/shikya/fs-builder.git",
+  "author": "Shrikant Sonone <shrikantsonone@gmail.com>",
+  "license": "None",
+  "private": false
+}
